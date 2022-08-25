@@ -1,5 +1,5 @@
 # Joke Teller
-![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/junioresc/joke-teller/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/junioresc/joke-teller/blob/main/LICENSE)
 
 ## Description
 
