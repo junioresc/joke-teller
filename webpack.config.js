@@ -3,7 +3,7 @@ const webpack = require('webpack');
 const Dotenv = require('dotenv-webpack');
 
 module.exports = {
-    entry: './script.js',
+    entry: './assets/js/script.js',
     output: {
         path: path.resolve(__dirname, 'dist'),
         filename: 'main.bundle.js'
@@ -11,5 +11,5 @@ module.exports = {
     plugins: [
         new Dotenv()
     ],
-    mode: 'development'
+    mode: 'production'
 };
